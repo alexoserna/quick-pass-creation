@@ -1,4 +1,4 @@
-# Password Generator Starter Code
+# Password Generator
 
 ## Description
 Given certain criteria, such as length, lowercase, uppercase, numeric, and/or special characters,the application will generate a random password for maximum security.
